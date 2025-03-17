@@ -1,2 +1,2 @@
-# Jogos-I
-Repositório de Jogos I
+# Jogos-I e Jogos-II
+Repositório de Jogos I e Jogos II
